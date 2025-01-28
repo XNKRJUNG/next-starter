@@ -1,0 +1,10 @@
+# Ignore artifacts:
+.next/
+.cache
+public
+node_modules
+
+# ignore specific files:
+package-lock.json
+next-end.d.ts
+next.config.ts
