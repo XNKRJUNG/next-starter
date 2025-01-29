@@ -59,12 +59,14 @@ This project follows the **Conventional Commits** standard to ensure consistent 
 | ---------- | ------------------------------------------------------------- |
 | `feat`     | Adds a new feature                                            |
 | `fix`      | Fixes a bug                                                   |
-| `chore`    | General maintenance tasks, not affecting source code or tests |
 | `docs`     | Documentation changes                                         |
 | `style`    | Code style updates (formatting, missing semi-colons, etc.)    |
 | `refactor` | Code refactoring without adding features or fixing bugs       |
-| `perf`     | Performance improvement                                       |
 | `test`     | Adding or updating tests                                      |
+| `chore`    | General maintenance tasks, not affecting source code or tests |
+| `ci`       | CI/CD changes                                                 |
+| `perf`     | Performance improvement                                       |
+| `revert`   | Revert a previous commit                                      |
 | `build`    | Changes affecting the build system or dependencies            |
 
 ### Additional Rules
