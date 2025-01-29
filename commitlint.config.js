@@ -15,6 +15,7 @@ module.exports = {
         "ci", // CI/CD changes
         "perf", // Performance improvements
         "revert", // Revert a previous commit
+        "build", // Changes affecting the build system or dependencies
       ],
     ],
     "subject-case": [2, "always", "sentence-case"], // Enforce sentence case for the subject
